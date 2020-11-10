@@ -7,8 +7,7 @@
 
 **Используемые инструмент:**
 * Windows 10
+* STM32CubeMX 4.1.0.0
 * Keil MDK v5.32
 * STM32F103C8T6 - Blue Pill (был использван контакт PC13)
 * ST-LINK/V2
-
-
