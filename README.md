@@ -8,7 +8,7 @@
 **Используемые инструмент:**
 * Windows 10
 * Keil MDK v5.32
-* STM32F103C8T6 - Blue Pill
+* STM32F103C8T6 - Blue Pill (был использван контакт PC13)
 * ST-LINK/V2
 
 
